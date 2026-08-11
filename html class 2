@@ -1,0 +1,53 @@
+<!doctype html>
+<html>
+<head>
+    <title>Table</title>
+     <style>
+       table{
+              width: 50%;
+              border:1px solid black;
+              border-collapse:collapse;
+              text-align:center;
+            }
+    th,td    {
+              border= 1px solid black;
+              padding: 10px;
+              }
+    th {
+        background-color: rgb(30, 90, 40);
+    }
+    }          
+  </style>
+</head>
+<body>
+
+   <h1 align = "center">this is my second tinker class </h1>
+   <table align="center", style="color: rgb(255, 123, 0);", border="1">
+   <tr>
+      <td>2</td>
+      <td>3</td>
+      <td>4</td>
+   </tr>
+   <tr>
+      <td>xyz</td>
+      <td>abc</td>
+      <td>asm</td>
+   </tr> 
+   <tr>
+      <td>67</td>
+      <td>100</td>
+      <td>17</td>
+   </tr> 
+</table>
+<ul>
+    <li>x</li>
+    <li>y</li>
+    <li>z</li>
+</ul>
+<ol style="color:rgb(13, 240, 25);">
+    <li>30</li>
+    <li>90</li>
+    <li>69</li>
+</ol>
+</body>
+</html>
